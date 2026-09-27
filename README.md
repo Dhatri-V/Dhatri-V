@@ -84,18 +84,9 @@ End-to-end system that processes application logs, detects incidents, retrieves 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhatri-V&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhatri-V&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhatri_V-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhatri_V-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhatri-v-61a423351/)
 
 ---
 
